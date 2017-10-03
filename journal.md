@@ -19,6 +19,8 @@ echo "Hello" > hello.md
 
 echo will write what you type inside "" into the file that you specify after the >
 
+I am writing something new in this journal and I am going to push it.
+
  
 
 
